@@ -41,7 +41,9 @@ When the current time is equal to the the time corresponding to a task, the text
 If current time is less than the time corresponding to a task, the text field will remain green.
 The page will keep data stored in localStorage and retrieve most recent saved data if refreshed.
 
-## Link to project
+## Link to project/repository
+https://vithursan6.github.io/work-scheduler/
+
 
 
 
