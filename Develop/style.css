@@ -14,6 +14,7 @@ textarea{
   padding: 10px;
 }
 
+/*styled title banner*/
 h1, .lead{
   color: #f0eff5;
   font-family: fantasy;
@@ -21,7 +22,7 @@ h1, .lead{
   
 
 }
-
+/*added gradient8*/
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -31,9 +32,12 @@ h1, .lead{
   border-bottom: 10px solid black;
 }
 
+/*added background color and font weight before timeTracker()event*/
 .description{
+  text-align: center;
+  font-weight: bold;
   white-space: pre-wrap;
-  background-color: rgb(184, 206, 245);
+  /*background-color: rgb(184, 206, 245);*/
 }
 
 .time-block{
@@ -47,14 +51,16 @@ h1, .lead{
   border-top: 1px solid white;;
 }
 
+/*added gradient and shadow*/
 .hour {
   font-weight: bold;
   background-color: #06AED5;
   color: white;
   text-shadow: 0.1rem 0.1rem black;
   border-top: 1px dashed #000000;
-  box-shadow: 0.1rem 0.1rem black;
+  box-shadow: -0.2rem 0.2rem black;
   background-image: linear-gradient(45deg, #3008fa 0%, #2bd2ff 52%, #07fdfd 90%);
+  border-radius: 0.5rem;
 }
 
 .past {
@@ -72,6 +78,7 @@ h1, .lead{
   color: white;
 }
 
+/*added gradient and shadow*/
 .save-Btn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -83,17 +90,22 @@ h1, .lead{
   
 }
 
+/*added shadow and hover translation*/
 .save-Btn i:hover {
-  font-size: 20px;
+  font-size: 45px;
   transition: all .3s ease-in-out;
   transform: translateY(-0.1rem);
   transition: transform 200ms;
   box-shadow: 0.1rem 0.1rem white;
 }
 
+/*added shadow to icon*/
 .save-Btn i{
   box-shadow: 0.1rem 0.1rem black;
+  font-size: 40px;
 
 }
+
+
 
 
