@@ -43,6 +43,7 @@ The page will keep data stored in localStorage and retrieve most recent saved da
 
 ## Link to project/repository
 https://vithursan6.github.io/work-scheduler/
+https://github.com/Vithursan6/work-scheduler
 
 
 
