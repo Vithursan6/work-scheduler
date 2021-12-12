@@ -49,7 +49,7 @@ https://github.com/Vithursan6/work-scheduler
 
 
 ## Screenshot
-
+![screenshot link](https://vithursan6.github.io/work-scheduler/screenshot.png)
 
 
 
