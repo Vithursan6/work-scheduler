@@ -5,7 +5,6 @@ A simple application that assists in planning a regular 8 hour work day.
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-The starter code uses the [Moment.js](https://momentjs.com/) library to work with date and time, but you're free to use a different JavaScript solution to handle this functionality because Moment.js is considered a "legacy" product. Learn more about these other solutions in the [Moment.js project status page.](https://momentjs.com/docs/#/-project-status/).
 
 ## User Story
 
@@ -42,7 +41,10 @@ When the current time is equal to the the time corresponding to a task, the text
 If current time is less than the time corresponding to a task, the text field will remain green.
 The page will keep data stored in localStorage and retrieve most recent saved data if refreshed.
 
-## Link to project
+## Link to project/repository
+https://vithursan6.github.io/work-scheduler/
+https://github.com/Vithursan6/work-scheduler
+
 
 
 
