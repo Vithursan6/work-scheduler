@@ -1,7 +1,7 @@
 # Work Day Scheduler Application
 A simple application that assists in planning a regular 8 hour work day.
 
-# 05 Third-Party APIs: Work Day Scheduler
+## Third-Party APIs: Work Day Scheduler
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -42,7 +42,9 @@ If current time is less than the time corresponding to a task, the text field wi
 The page will keep data stored in localStorage and retrieve most recent saved data if refreshed.
 
 ## Link to project/repository
+
 https://vithursan6.github.io/work-scheduler/
+
 https://github.com/Vithursan6/work-scheduler
 
 
