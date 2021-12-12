@@ -32,12 +32,12 @@ h1, .lead{
   border-bottom: 10px solid black;
 }
 
-/*added background color and font weight before timeTracker()event*/
+/*added font weight*/
 .description{
   text-align: center;
   font-weight: bold;
   white-space: pre-wrap;
-  /*background-color: rgb(184, 206, 245);*/
+  
 }
 
 .time-block{
