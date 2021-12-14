@@ -56,7 +56,7 @@ https://github.com/Vithursan6/work-scheduler
 
 ## Video Demonstration
 
-[![Watch the video](https://vithursan6.github.io/work-scheduler/video.mp4)
+https://vithursan6.github.io/work-scheduler/video.mp4
 
 
 
