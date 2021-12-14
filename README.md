@@ -58,12 +58,7 @@ https://github.com/Vithursan6/work-scheduler
 
 https://vithursan6.github.io/work-scheduler/video.mp4
 
-![Demo Video](https://vithursan6.github.io/work-scheduler/video.gif)
-
-
-
 ## License
-
 MIT License
 
 Copyright (c) 2021 Vithursan6
